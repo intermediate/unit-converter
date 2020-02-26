@@ -1,0 +1,23 @@
+{
+  "name": "flexion",
+  "version": "1.0.0",
+  "description": " Unit Converter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tests"
+  },
+  "author": "Gautam Kumar Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "install": "^0.13.0",
+    "mocha": "^7.0.1",
+    "npm": "^6.14.0",
+    "nyc": "^15.0.0"
+  }
+}
